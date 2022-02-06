@@ -1,9 +1,11 @@
-BI-VARIAT CORRELATION
-Descriptive analysis for data science 
+**BI-VARIAT CORRELATION**
+**___________________________________________________________________________________________________________________________________________________**
+
+**Descriptive analysis for data science**
 
 Correlations are useful to identify a pattern that provides a sense of prediction or probability decision-makers can rely on for going forward. Whatever the case, correlations are used regularly in business to make processes perform better.
 
-ANALYASIS
+**ANALYASIS**
 
 What is Correlation?
 
@@ -20,16 +22,16 @@ For example:
 It is very useful in data analysis and modeling to better understand the relationships between variables. The statistical relationship between two variables is referred to as their correlation.
 A correlation could be positive, meaning both variables move in the same direction, or negative, meaning that when one variable’s value increases, the other variables’ values decrease. Correlation can also be neural or zero, meaning that the variables are unrelated.
 
-•	Positive Correlation: both variables change in the same direction.
+•	**Positive Correlation:** both variables change in the same direction.
 
-•	Neutral Correlation: No relationship in the change of the variables.
+•	**Neutral Correlation:** No relationship in the change of the variables.
 
-•	Negative Correlation: variables change in opposite directions.
+•	**Negative Correlation:** variables change in opposite directions.
 
 
 This project is built on the basis of widely used process in machine learning and data science.
 
-Pearson’s Correlation
+**Pearson’s Correlation**
 The Pearson correlation coefficient (named for Karl Pearson) can be used to summarize the strength of the linear relationship between two data samples.
 The Pearson’s correlation coefficient is calculated as the covariance of the two variables divided by the product of the standard deviation of each data sample. It is the normalization of the covariance between the two variables to give an interpretable score.
  
